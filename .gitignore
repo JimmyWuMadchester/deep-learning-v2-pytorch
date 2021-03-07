@@ -2,3 +2,5 @@
 intro-to-pytorch/__pycache__/*
 .vscode/*
 intro-to-pytorch/Cat_Dog_data/*
+word2vec-embeddings/data/text8
+word2vec-embeddings/__pycache__/
